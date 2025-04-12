@@ -16,3 +16,6 @@ Leitura e tratamento de dados em formato JSON
 Análises e transformações com a biblioteca Pandas
 
 Visualização interativa dos dados com Streamlit
+
+Link da aplicação:
+https://dashboardvendas-dhk4m2najnbvlufy2yyymz.streamlit.app/
